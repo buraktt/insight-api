@@ -62,7 +62,7 @@
   "dependencies": {
     "async": "*",
     "bitcore-lib": "buraktt/bitcore-lib#e5d0530168d1d4f16111be47bb1a613452ce1635",
-    "bitcore-message": "satoshilabs/bitcore-message#3c91c372285018d4a840dca8731899107b7c31df",
+    "bitcore-message": "buraktt/bitcore-message#3ca910295366d1ddec46b7f121dea1e6eb7d0355",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
